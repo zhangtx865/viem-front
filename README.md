@@ -67,7 +67,5 @@ simple-front/
 2. 确保 MetaMask 已连接到以太坊网络
 3. 首次使用需要授权连接钱包
 4. 确保本地 Foundry 节点正在运行（用于本地开发）
-5. 相关合约代码在 https://github.com/lbc-team/hello_foundry
-
 
 
